@@ -1,2 +1,2 @@
-# Zend Framework + VueJS
-Vue js with Zend Framework
+# Laminas + VueJS
+Vue js with Laminas
